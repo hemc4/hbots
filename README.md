@@ -8,4 +8,8 @@
 
 2. Place the cursor on the like button and run this command.
  
-3. `python hbots/tinder_like.py`
+3. Clone the repo `git clone https://github.com/hemc4/hbots.git`
+
+4. Install `pyautogui` by command `pip install pyautogui`
+
+5. Run the script `python hbots/tinder_like.py`
