@@ -1,5 +1,5 @@
 # Tinder Auto Like Bot
-This bot uses your cliets UI to simulate the clicks. No Tinder API required.
+This bot uses your clients UI to simulate the clicks. No Tinder API required.
 
 
 ## Demo Video
